@@ -6,7 +6,7 @@
 "main": "Censortext", 
  "repository":{
 "type":"git",
-"url":""
+"url":"https://github.com/Jyothisri1/sample.git"
 },
 "keywords":[
 "censor",
